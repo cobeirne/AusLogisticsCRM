@@ -1,0 +1,54 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="RebateProcessor.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ProducerQueue" Type="System.String" Scope="User">
+      <Value Profile="(Default)">RebateResponse</Value>
+    </Setting>
+    <Setting Name="SubscriberQueue" Type="System.String" Scope="User">
+      <Value Profile="(Default)">RebateRequest</Value>
+    </Setting>
+    <Setting Name="BrokerUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">tcp://localhost:61616</Value>
+    </Setting>
+    <Setting Name="GoldDiscount" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">0.25</Value>
+    </Setting>
+    <Setting Name="SilverDiscount" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">0.2</Value>
+    </Setting>
+    <Setting Name="LoyaltyDiscount" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">0.0</Value>
+    </Setting>
+    <Setting Name="RegularDiscount" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">0.0</Value>
+    </Setting>
+    <Setting Name="GoldRebate" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">500.0</Value>
+    </Setting>
+    <Setting Name="GoldDiscountOrderMin" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">5000.0</Value>
+    </Setting>
+    <Setting Name="SilverRebate" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">0.0</Value>
+    </Setting>
+    <Setting Name="SilverDiscountOrderMin" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">5000.0</Value>
+    </Setting>
+    <Setting Name="LoyaltyRebate" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">500.0</Value>
+    </Setting>
+    <Setting Name="LoyaltyDiscountOrderMin" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">0.0</Value>
+    </Setting>
+    <Setting Name="RegularDiscountOrderMin" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">0.0</Value>
+    </Setting>
+    <Setting Name="RegularRebate" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">0.0</Value>
+    </Setting>
+    <Setting Name="DbFileName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">RebateProcessorDB.mdf</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

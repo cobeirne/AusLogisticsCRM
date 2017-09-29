@@ -1,0 +1,81 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AusLogisticsWebsite.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DeliveryClassFileName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">deliveryClassification.csv</Value>
+    </Setting>
+    <Setting Name="TruckMaxLoad" Type="System.Decimal" Scope="Application">
+      <Value Profile="(Default)">5000</Value>
+    </Setting>
+    <Setting Name="FixedFeesFileName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">fixedFees.csv</Value>
+    </Setting>
+    <Setting Name="PublicHolidaysFileName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">publicHolidays.csv</Value>
+    </Setting>
+    <Setting Name="HourlyRatesFileName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">hourlyRates.csv</Value>
+    </Setting>
+    <Setting Name="PostCodeFileName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">postCodes.csv</Value>
+    </Setting>
+    <Setting Name="GstRate" Type="System.Decimal" Scope="Application">
+      <Value Profile="(Default)">0.1</Value>
+    </Setting>
+    <Setting Name="TasFerrySeconds" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">74580</Value>
+    </Setting>
+    <Setting Name="MaxDrivingMinutes" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">720</Value>
+    </Setting>
+    <Setting Name="MinBreakMinutes" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">720</Value>
+    </Setting>
+    <Setting Name="CryptoSalt" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">efjkcml26d79fsna</Value>
+    </Setting>
+    <Setting Name="CryptoKey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Password123</Value>
+    </Setting>
+    <Setting Name="CryptoKeyLegnth" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">256</Value>
+    </Setting>
+    <Setting Name="DbFileName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">AusLogisticsDB.mdf</Value>
+    </Setting>
+    <Setting Name="CsvEmployeeFileName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">employees.csv</Value>
+    </Setting>
+    <Setting Name="CsvSalariesFileName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">salaries.csv</Value>
+    </Setting>
+    <Setting Name="CsvEmployeesToMigrate" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">employees_to_migrate.csv</Value>
+    </Setting>
+    <Setting Name="MigrateCsvEmployees" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="GoldTopPercentile" Type="System.Decimal" Scope="Application">
+      <Value Profile="(Default)">10.0</Value>
+    </Setting>
+    <Setting Name="SilverTopPercentile" Type="System.Decimal" Scope="Application">
+      <Value Profile="(Default)">30.0</Value>
+    </Setting>
+    <Setting Name="LoyalityYears" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">25</Value>
+    </Setting>
+    <Setting Name="TopLoyaltyPercentile" Type="System.Decimal" Scope="Application">
+      <Value Profile="(Default)">5.0</Value>
+    </Setting>
+    <Setting Name="ProducerQueue" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">RebateRequest</Value>
+    </Setting>
+    <Setting Name="SubscriberQueue" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">RebateResponse</Value>
+    </Setting>
+    <Setting Name="BrokerUrl" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">tcp://localhost:61616</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

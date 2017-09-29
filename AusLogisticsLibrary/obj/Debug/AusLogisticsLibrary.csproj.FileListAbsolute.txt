@@ -1,0 +1,14 @@
+K:\Source\Deakin\SIT322\Sit322Assignment3\AusLogistics\AusLogisticsLibrary\bin\Debug\AusLogisticsLibrary.dll
+K:\Source\Deakin\SIT322\Sit322Assignment3\AusLogistics\AusLogisticsLibrary\bin\Debug\AusLogisticsLibrary.pdb
+K:\Source\Deakin\SIT322\Sit322Assignment3\AusLogistics\AusLogisticsLibrary\bin\Debug\Apache.NMS.ActiveMQ.dll
+K:\Source\Deakin\SIT322\Sit322Assignment3\AusLogistics\AusLogisticsLibrary\bin\Debug\Apache.NMS.dll
+K:\Source\Deakin\SIT322\Sit322Assignment3\AusLogistics\AusLogisticsLibrary\obj\Debug\AusLogisticsLibrary.dll
+K:\Source\Deakin\SIT322\Sit322Assignment3\AusLogistics\AusLogisticsLibrary\obj\Debug\AusLogisticsLibrary.pdb
+K:\Source\Deakin\SIT322\Sit322Assignment3\AusLogistics\AusLogisticsLibrary\obj\Debug\AusLogisticsLibrary.csprojResolveAssemblyReference.cache
+D:\Users\chris\Desktop\AusLogistics\AusLogisticsLibrary\bin\Debug\AusLogisticsLibrary.dll
+D:\Users\chris\Desktop\AusLogistics\AusLogisticsLibrary\bin\Debug\AusLogisticsLibrary.pdb
+D:\Users\chris\Desktop\AusLogistics\AusLogisticsLibrary\bin\Debug\Apache.NMS.ActiveMQ.dll
+D:\Users\chris\Desktop\AusLogistics\AusLogisticsLibrary\bin\Debug\Apache.NMS.dll
+D:\Users\chris\Desktop\AusLogistics\AusLogisticsLibrary\obj\Debug\AusLogisticsLibrary.csprojResolveAssemblyReference.cache
+D:\Users\chris\Desktop\AusLogistics\AusLogisticsLibrary\obj\Debug\AusLogisticsLibrary.dll
+D:\Users\chris\Desktop\AusLogistics\AusLogisticsLibrary\obj\Debug\AusLogisticsLibrary.pdb
